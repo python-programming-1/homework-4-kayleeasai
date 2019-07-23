@@ -1,9 +1,3 @@
-Last login: Mon Jul 22 18:33:55 on ttys002
-(base) Kaylees-MacBook-Pro:~ kayleeasai$ cd homework-4-kayleeasai
-(base) Kaylees-MacBook-Pro:homework-4-kayleeasai kayleeasai$ python
-Python 3.7.3 (default, Mar 27 2019, 16:54:48) 
-[Clang 4.0.1 (tags/RELEASE_401/final)] :: Anaconda, Inc. on darwin
-Type "help", "copyright", "credits" or "license" for more information.
 >>> #HW4
 ... 
 >>> import random
@@ -49,23 +43,4 @@ Type "help", "copyright", "credits" or "license" for more information.
 ...     if Play == 'n':
 ...         print('Thanks, Bye!!!')
 ...         break
-... 
-Make a move!(R/P/S):
-R
-You chose R and the computer chose S
-You Win!
-Do you want to play again? (y/n)
-y
-Make a move!(R/P/S):
-S
-You chose S and the computer chose P
-You Win!
-Do you want to play again? (y/n)
-y
-Make a move!(R/P/S):
-sc
-Human: 2, Computer: 0
-Do you want to play again? (y/n)
-n
-Thanks, Bye!!!
->>> 
+
